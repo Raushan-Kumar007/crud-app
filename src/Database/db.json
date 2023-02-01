@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "rishabh rai",
+      "username": "raushan_ravi7",
+      "email": "raushananand199@gmail.com",
+      "phone": "8875863755",
+      "id": 1
+    },
+    {
+      "name": "Ravi",
+      "username": "ravi_anand7",
+      "email": "ravisankaranand199@gmail.com",
+      "phone": "9801511272",
+      "id": 2
+    },
+    {
+      "name": "Sonu",
+      "username": "sonu_anand7",
+      "email": "sonuanand644@gmail.com",
+      "phone": "7258873749",
+      "id": 3
+    },
+    {
+      "name": "raushan",
+      "username": "raushan_ravi7",
+      "email": "kingraushan199@gmail.com",
+      "phone": "08875863755",
+      "id": 4
+    }
+  ]
+}
